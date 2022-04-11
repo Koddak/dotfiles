@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mklcouderc@gmail.com
+	name = Mickael Couderc
